@@ -8,9 +8,6 @@ Głównym celem I edycji Postdata Hackathon Hack the Track będzie stworzenie ro
 Wyzwanie polega na utworzeniu narzędzie logistycznego, które pozwoli zaplanować, zoptymalizować oraz zaprezentować trasę złożoną ze wskazanych punktów. Uczestnicy wydarzenia otrzymają zestaw startowych danych, na podstawie których przygotują rozwiązanie. 
 
 ## Opis problemu
-[12:33] Wojtowicz Beata
-    
-
 W repozytorium znajdują się dwa pliki JSON (startPoint.json, locations.json). W pliku startPoint zserializowano punkt z którego mają się rozpoczynać i kończyć trasy. W pliku locations.json zawarto listę 50 punktów, część z nich wymaga lekkiej obróbki danych. Celem hackatonu jest utworzenie narzędzia które będzie w stanie znormalizować adresy punktów, wyznaczyć trasy i rozwiązanie zaprezentować na mapie. Zwróć uwagę, że każdy punkt ma godzinę otwarcia i godzinę zamknięcia. Trasa powinna być tak wyznaczona aby punkt był odwiedzony w godzinach otwarcia.
 ## Technologia
 Pozostawiamy uczestnikom wydarzenia wolny wybór technologii, w której zaprezentują swoje rozwiązania.
